@@ -1,0 +1,63 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Carlos",
+      "telefono": 102013313,
+      "email": "carlos@email.com",
+      "empresa": "Random Corporate"
+    },
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@email.com",
+      "empresa": "Random Corporate"
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@email.com",
+      "empresa": "Random Corporate"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@email.com",
+      "empresa": "Random Corporate"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@email.com",
+      "empresa": "Random Corporate"
+    },
+    {
+      "nombre": "Enrique",
+      "empresa": "Empresa company",
+      "email": "email@email.com",
+      "telefono": "435345345345",
+      "notas": "Quiere un nuevo sitio personal",
+      "id": 6
+    },
+    {
+      "nombre": "Zeus Mendoza Lopez",
+      "empresa": "Dreing studios",
+      "email": "email@email.com",
+      "telefono": "7555566650",
+      "notas": "Quiere una pagina personal",
+      "id": 8
+    },
+    {
+      "nombre": "Wewin",
+      "empresa": "Wewin Studios",
+      "email": "wewin@correo.com",
+      "telefono": "755234324324",
+      "notas": "Wewin",
+      "id": 9
+    }
+  ]
+}

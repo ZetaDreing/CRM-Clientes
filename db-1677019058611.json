@@ -1,0 +1,39 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Carlos",
+      "telefono": 102013313,
+      "email": "carlos@email.com",
+      "empresa": "Random Corporate"
+    },
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@email.com",
+      "empresa": "Random Corporate"
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@email.com",
+      "empresa": "Random Corporate"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@email.com",
+      "empresa": "Random Corporate"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@email.com",
+      "empresa": "Random Corporate"
+    }
+  ]
+}
